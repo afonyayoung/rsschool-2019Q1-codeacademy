@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Alexey Afanasenko
+HTML CSS Basics: https://www.codecademy.com/users/afonyayoung/achievements
